@@ -1,0 +1,5 @@
+homepage: "https://www.baldwin.agency/"
+documentation: "https://github.com/baldwin-agency/gtm-tiktok-purchase-variable/blob/main/README.md"
+versions:
+  - sha:
+    changeNotes:
