@@ -1,6 +1,9 @@
 homepage: "https://www.baldwin.agency/"
 documentation: "https://github.com/baldwin-agency/gtm-tiktok-purchase-variable/blob/main/README.md"
 versions:
+  # Latest version
+  - sha: f39241777c0e63ddc7ec2a02c4e0cd14f97ada81
+    changeNotes: fix template
   - sha: f3bbee8a3d6e24a936568dfee960da16d5108ba7
     changeNotes: Added terms of service
   - sha: 3480cacf416ba6271024c67481b1548d89013269
