@@ -13,8 +13,8 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Baldwin GA4 Purchase to TikTok Purchase",
-  "description": "Pulls transaction data for TikTok from GA4 event (dataLayer)",
+  "displayName": "Baldwin GA4 Transaction to TikTok Transaction",
+  "description": "Pulls transaction data for TikTok from GA4 event",
   "categories": ["ADVERTISING", "ANALYTICS", "CONVERSIONS", "MARKETING", "PERSONALIZATION", "SOCIAL"],
   "containerContexts": [
     "WEB"
